@@ -1,0 +1,9 @@
+TODOs: 
+
+- pouvoir afficher des menus/plats de jour
+
+- ajouter les notes des plats (et les afficher dans le listView)
+
+- ajouter une activité pour voter si on a aimé le plat ou pas
+
+- nettoyer les xml (l'affichage n'étant pas trop jolie, les couleurs sont horribles, p.e. le text en rose...)
